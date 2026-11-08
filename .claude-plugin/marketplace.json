@@ -1,0 +1,15 @@
+{
+  "name": "letscook-skills",
+  "description": "Claude Code skills for the Let's Cook iOS app.",
+  "owner": {
+    "name": "Darren Liu"
+  },
+  "plugins": [
+    {
+      "name": "letscook-dish",
+      "source": "./plugins/letscook-dish",
+      "description": "Turn a recipe page, blog text, or cooking video into a Let's Cook dish and copy it to the clipboard for the iOS app.",
+      "version": "0.1.0"
+    }
+  ]
+}

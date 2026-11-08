@@ -1,0 +1,7 @@
+{
+  "name": "letscook-dish",
+  "description": "Turn a recipe page, blog text, or cooking video into a Let's Cook dish and copy it to the clipboard for the iOS app.",
+  "version": "0.1.0",
+  "author": { "name": "Darren Liu" },
+  "repository": "https://github.com/ImNotDarren/letscook-skills"
+}
